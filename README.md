@@ -89,7 +89,7 @@ Cada una implementa su propia lógica de cálculo de área, perímetro y plurali
 
 🔗 Podés acceder al código fuente en este repositorio:
 
-👉 [https://github.com/ssisniega/DevelopmentChallenge](https://github.com/tuusuario/DevelopmentChallenge)
+👉 [https://github.com/ssisniega/DevelopmentChallenge](https://github.com/ssisniega/DevelopmentChallenge)
 
 ---
 
